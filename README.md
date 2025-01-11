@@ -1,16 +1,11 @@
-# movie_app
+QuadB Assignment to build a Netflix similar UI
 
-A new Flutter project.
 
-## Getting Started
+![MovieHub_MobView](https://github.com/user-attachments/assets/80db4dc4-9b86-4c7a-817f-04f1a4c58490)
+![MovieHub_LapView](https://github.com/user-attachments/assets/26a80458-ff15-4c6c-b092-bbbcefb5ddea)
+![MovieHub_TabView](https://github.com/user-attachments/assets/2c12fdbd-a995-4b65-a076-4578dfa47b15)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/fb03f5fe-d8aa-4c96-ad99-56ba91e44a17
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
